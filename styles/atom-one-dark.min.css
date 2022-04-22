@@ -50,10 +50,6 @@ pre {
   color: #e06c75;
 }
 
-.hljs-literal {
-  background: #282c34;
-  color: #56b6c2;
-}
 
 .hljs-string,
 .hljs-regexp,
@@ -99,7 +95,8 @@ pre {
 .hljs-selector-class,
 .hljs-selector-attr,
 .hljs-selector-pseudo,
-.hljs-number {
+.hljs-number,
+.hljs-literal {
   background: #282c34;
   color: #d19a66;
 }
